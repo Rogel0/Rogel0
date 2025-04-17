@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://rogelgerodiaz-portfolio.netlify.app/]([https://rogelgerodiaz-portfolio.netlify.app](https://rg-dev-nu.vercel.app/)/)
+- 👨‍💻 All of my projects are available at [[https://rogelgerodiaz-portfolio.netlify.app](https://rg-dev-nu.vercel.app/)p/]/)
 
 - 📫 How to reach me **gerodiazrogel0@gmail.com**
 
