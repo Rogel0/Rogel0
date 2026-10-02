@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue and React**
 
-- 👨‍💻 All of my projects are available at [https://rg-dev-nu.vercel.app/](https://rg-dev-nu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rg-dev.vercel.app/](https://rg-dev.vercel.app/)
 
 - 📫 How to reach me: **gerodiazrogel0@gmail.com**
 
